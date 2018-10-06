@@ -22,22 +22,12 @@ nav ol li {
   list-style-type: none;
 }
 
-nav a {
+a {
   color: #8f2440;
   text-decoration: none;
 }
 
-nav a:hover {
-  color: #3f1622;
-  text-decoration: underline;
-}
-
-small a {
-  color: #8f2440;
-  text-decoration: none;
-}
-
-small a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
@@ -51,7 +41,7 @@ figcaption {
 
 .numbers {
   font-weight: bold;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
 }
 
