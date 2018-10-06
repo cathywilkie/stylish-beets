@@ -6,8 +6,7 @@ Colours: taupe#c9b5ab, rouge#8f2440, noir#222, rougefonce#3f1622 */
 html {
   background-color: #c9b5ab;
   font-family: 'PT Serif', serif;
-  font-style: regular;
-  font-size: 1.125;
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
