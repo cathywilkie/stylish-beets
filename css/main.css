@@ -78,3 +78,15 @@ ol li {
 ul > li {
   list-style-type: circle;
 }
+
+q {
+  quotes: "“" "”" "‘" "’";
+}
+
+q:before {
+  content: open-quote;
+}
+
+q:after {
+  content: close-quote;
+}
