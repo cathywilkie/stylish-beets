@@ -7,7 +7,7 @@ h1, h2 {
   color: #3f1622;
 }
 
-nav ol {
+nav ol > li {
   color: #8f2440;
 }
 
